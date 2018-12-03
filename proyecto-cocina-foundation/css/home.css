@@ -1,0 +1,74 @@
+
+body {
+background: url("../imagenes/interior.jpg") no-repeat fixed center;
+}
+.fondo{
+width: 100%;
+background-color:#ffffff;
+}
+.encabesado {
+background-color: grey;
+}
+.logo-img{
+  width: 30%;
+}
+.opciones {
+text-align: center;
+border:1px solid green;
+width: 100%;
+}
+ div #contact-panel{
+/* background-color: green; */
+  margin-left: 4px;
+padding-left: 15px;
+  border:1px solid red;
+  width: 100%;
+text-align: center;
+}
+
+img{
+  max-height: 2000px;
+}
+#panel-item {
+padding-bottom: 5%;
+
+}
+#item-historial {
+border:1px solid grey;
+padding-left: 3%;
+margin-top: 3%;
+background-color:orange;
+border-radius: 8px;
+}
+
+.expanded-encabesado{
+background-color:orange;
+height: 4px;
+}
+
+
+
+form {
+  .form-icons {
+    text-align: center;
+}
+/*    h4 {
+      margin-bottom: 1rem;
+    }
+
+    .input-group-label {
+      background-color: $primary-color;
+      border-color: $primary-color;
+    }
+
+    .input-group-field {
+      border-color: $primary-color;
+    }
+
+    .fa {
+      color: white;
+      width: 1rem; // makes the width of icon labels equal
+    }
+  }
+}
+*/
